@@ -1,6 +1,6 @@
 # ISS-Info
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
  
@@ -58,6 +58,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <table>
   <tr>
     <td align="center"><a href="https://github.com/salil-gtm"><img src="https://avatars2.githubusercontent.com/u/18382251?v=4" width="100px;" alt=""/><br /><sub><b>Salil Gautam</b></sub></a><br /><a href="https://github.com/Quarantine-Projects/ISS_Info/commits?author=salil-gtm" title="Code">💻</a> <a href="https://github.com/Quarantine-Projects/ISS_Info/commits?author=salil-gtm" title="Documentation">📖</a> <a href="#example-salil-gtm" title="Examples">💡</a></td>
+    <td align="center"><a href="https://github.com/pdx97"><img src="https://avatars3.githubusercontent.com/u/28250686?v=4" width="100px;" alt=""/><br /><sub><b>Pdx97</b></sub></a><br /><a href="https://github.com/Quarantine-Projects/ISS_Info/commits?author=pdx97" title="Code">💻</a> <a href="https://github.com/Quarantine-Projects/ISS_Info/commits?author=pdx97" title="Documentation">📖</a> <a href="#example-pdx97" title="Examples">💡</a></td>
   </tr>
 </table>
 
