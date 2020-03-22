@@ -1,0 +1,26 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "salil-gtm",
+      "name": "Salil Gautam",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/18382251?v=4",
+      "profile": "https://github.com/salil-gtm",
+      "contributions": [
+        "code",
+        "doc",
+        "example"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "ISS_Info",
+  "projectOwner": "Quarantine-Projects",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
