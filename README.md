@@ -33,6 +33,7 @@ ISS_Info.iss_people_in_space()     # Returns a dictionary with number, names, cr
 ```
 
 ### International Space Station Pass Times:
+Given a location on Earth (latitude, longitude, and altitude) this API will compute the next n number of times that the ISS will be overhead. Overhead is defined as 10° in elevation for the observer. The times are computed in UTC and the length of time that the ISS is above 10° is in seconds.
 
 ```python
 ISS_Info.iss_passes(43.5,-74,200,3)     # Returns a dictionary with every pass information.
