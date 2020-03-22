@@ -1,4 +1,7 @@
 # ISS-Info
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
 [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
  
 
@@ -44,3 +47,22 @@ ISS_Info.iss_passes(43.5,-74,200,3)     # Returns a dictionary with every pass i
 |   Longitude      |   	The longitude of the place to predict passes             |    lon              |     -180 ~ 180          |   degrees      | YES |
 |   Altitude      |    The altitude of the place to predict passes           |           alt       |      0 ~ 10,000         |         meters| Optional |
 |Number|The number of passes to return|n|1 ~ 100|–| Optional|
+
+## Contributors ✨
+
+Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/salil-gtm"><img src="https://avatars2.githubusercontent.com/u/18382251?v=4" width="100px;" alt=""/><br /><sub><b>Salil Gautam</b></sub></a><br /><a href="https://github.com/Quarantine-Projects/ISS_Info/commits?author=salil-gtm" title="Code">💻</a> <a href="https://github.com/Quarantine-Projects/ISS_Info/commits?author=salil-gtm" title="Documentation">📖</a> <a href="#example-salil-gtm" title="Examples">💡</a></td>
+  </tr>
+</table>
+
+<!-- markdownlint-enable -->
+<!-- prettier-ignore-end -->
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
