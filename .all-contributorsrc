@@ -15,6 +15,17 @@
         "doc",
         "example"
       ]
+    },
+    {
+      "login": "pdx97",
+      "name": "Pdx97",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/28250686?v=4",
+      "profile": "https://github.com/pdx97",
+      "contributions": [
+        "code",
+        "doc",
+        "example"
+      ]
     }
   ],
   "contributorsPerLine": 7,
