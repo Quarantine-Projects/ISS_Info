@@ -1,7 +1,9 @@
 # ISS-Info
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
-[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
+[![Downloads](https://pepy.tech/badge/iss-info)](https://pepy.tech/project/iss-info)
+[![Downloads](https://pepy.tech/badge/iss-info/month)](https://pepy.tech/project/iss-info/month)
+[![Downloads](https://pepy.tech/badge/iss-info/week)](https://pepy.tech/project/iss-info/week)
 [![HitCount](http://hits.dwyl.com/Quarantine-Projects/ISS_Info.svg)](http://hits.dwyl.com/Quarantine-Projects/ISS_Info)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
  
