@@ -5,6 +5,7 @@
 [![Downloads](https://pepy.tech/badge/iss-info/month)](https://pepy.tech/project/iss-info/month)
 [![Downloads](https://pepy.tech/badge/iss-info/week)](https://pepy.tech/project/iss-info/week)
 [![HitCount](http://hits.dwyl.com/Quarantine-Projects/ISS_Info.svg)](http://hits.dwyl.com/Quarantine-Projects/ISS_Info)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Quarantine-Projects)](https://github.com/Quarantine-Projects/ISS_Info)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
  
 Python wrapper for tracking information about International Space Station via http://open-notify.org
