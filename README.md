@@ -4,7 +4,6 @@
 [![Downloads](https://pepy.tech/badge/iss-info)](https://pepy.tech/project/iss-info)
 [![Downloads](https://pepy.tech/badge/iss-info/month)](https://pepy.tech/project/iss-info/month)
 [![Downloads](https://pepy.tech/badge/iss-info/week)](https://pepy.tech/project/iss-info/week)
-[![HitCount](http://hits.dwyl.com/Quarantine-Projects/ISS_Info.svg)](http://hits.dwyl.com/Quarantine-Projects/ISS_Info)
 
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
  
